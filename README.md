@@ -32,9 +32,9 @@ I built it to turn local football draft nights into a fast, zero-install web app
 
 ## Screenshots
 
-| Draft & Squad Building | Live Match Simulation | Mobile View |
-| :---: | :---: | :---: |
-| ![Draft Screen](./docs/screenshots/draft.png) | ![Match Screen](./docs/screenshots/match.png) | ![Mobile Screen](./docs/screenshots/mobile.png) |
+| Draft & Squad Building | Live Match Simulation |
+| :---: | :---: |
+| ![Draft Screen](./docs/screenshots/draft.png) | ![Match Screen](./docs/screenshots/match.png) |
 
 ## What I Learned / Challenges
 
